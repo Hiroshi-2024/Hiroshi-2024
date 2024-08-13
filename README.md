@@ -1,7 +1,7 @@
 <h1 align="center">
     Hi <img src="./assets/Hi.gif" width="30px"><br>
     I'm <b>Senior Fullstack AI Engineer</b><br />
-    Welcome to <b>topdev0215</b>
+    Welcome to <b>Jupyer</b>
 
 </h1>
 
